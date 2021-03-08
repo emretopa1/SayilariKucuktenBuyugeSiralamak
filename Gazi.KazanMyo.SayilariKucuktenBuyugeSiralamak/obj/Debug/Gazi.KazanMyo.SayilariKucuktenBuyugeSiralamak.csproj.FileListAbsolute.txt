@@ -1,0 +1,7 @@
+C:\Users\ش\source\repos\Gazi.KazanMyo.SayilariKucuktenBuyugeSiralamak\Gazi.KazanMyo.SayilariKucuktenBuyugeSiralamak\obj\Debug\Gazi.KazanMyo.SayilariKucuktenBuyugeSiralamak.csprojAssemblyReference.cache
+C:\Users\ش\source\repos\Gazi.KazanMyo.SayilariKucuktenBuyugeSiralamak\Gazi.KazanMyo.SayilariKucuktenBuyugeSiralamak\obj\Debug\Gazi.KazanMyo.SayilariKucuktenBuyugeSiralamak.csproj.CoreCompileInputs.cache
+C:\Users\ش\source\repos\Gazi.KazanMyo.SayilariKucuktenBuyugeSiralamak\Gazi.KazanMyo.SayilariKucuktenBuyugeSiralamak\bin\Debug\Gazi.KazanMyo.SayilariKucuktenBuyugeSiralamak.exe.config
+C:\Users\ش\source\repos\Gazi.KazanMyo.SayilariKucuktenBuyugeSiralamak\Gazi.KazanMyo.SayilariKucuktenBuyugeSiralamak\bin\Debug\Gazi.KazanMyo.SayilariKucuktenBuyugeSiralamak.exe
+C:\Users\ش\source\repos\Gazi.KazanMyo.SayilariKucuktenBuyugeSiralamak\Gazi.KazanMyo.SayilariKucuktenBuyugeSiralamak\bin\Debug\Gazi.KazanMyo.SayilariKucuktenBuyugeSiralamak.pdb
+C:\Users\ش\source\repos\Gazi.KazanMyo.SayilariKucuktenBuyugeSiralamak\Gazi.KazanMyo.SayilariKucuktenBuyugeSiralamak\obj\Debug\Gazi.KazanMyo.SayilariKucuktenBuyugeSiralamak.exe
+C:\Users\ش\source\repos\Gazi.KazanMyo.SayilariKucuktenBuyugeSiralamak\Gazi.KazanMyo.SayilariKucuktenBuyugeSiralamak\obj\Debug\Gazi.KazanMyo.SayilariKucuktenBuyugeSiralamak.pdb
