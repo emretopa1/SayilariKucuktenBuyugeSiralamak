@@ -21,7 +21,7 @@ namespace Gazi.KazanMyo.SayilariKucuktenBuyugeSiralamak
             Console.Write("Kaç sayı istiyorsunuz? ");
             n = Convert.ToInt32(Console.ReadLine());
 
-            Console.Write("Diziye {0} elemente girin :\n", n);
+            Console.Write("Diziye element {0} girin :\n", n);
             for (i = 0; i < n; i++)
             {
                 Console.Write("element - {0} : ", i);
